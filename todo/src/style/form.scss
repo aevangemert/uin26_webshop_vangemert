@@ -1,0 +1,11 @@
+.todoform{
+    display: flex;
+    column-gap: 1rem;
+    gap: 1rem;
+
+    input, textarea{
+        padding: 1rem;
+        border-radius: 5px;
+
+    }
+}
